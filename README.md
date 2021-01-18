@@ -5,6 +5,7 @@ This repository is a placeholder. To utilise our SOAP API please configure the S
 There are currently SDKs for the following languages
 
 * [Python](https://github.com/despatchbay/despatchbay-python-sdk) (pip-installable `pip install despatchbay`)
+* [JavaScript](https://github.com/despatchbay/despatchjs)
 * PHP - coming soon!
 
 For the full API documentation please [read the wiki](https://github.com/despatchbay/despatchbay-api-v16/wiki)
